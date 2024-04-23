@@ -1,0 +1,6 @@
+Total Amount Deposited
+70
+Total Amount Withdrawn
+-65
+Total Balance
+5
