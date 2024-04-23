@@ -1,4 +1,4 @@
-balance = 30
+balance = 30 typing
 
 def database_entry():
     balance = str(30)
